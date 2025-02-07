@@ -1,0 +1,26 @@
+ITEM SIZE BILL OF MATERIAL QTY
+
+1 2 Pipe, Carbon Steel, Seamless, ASTM 3.0M
+A106 Gr.B, Sch 40
+2 2 Elbow 90 Deg, SR, Butt Weld, Carbon 2
+Steel, A234 WPB, Sch 40
+3 1/2 Weldolet, Butt Weld, Carbon Steel, FRG 3
+ASTM A105, Sch 40
+4 1/2 Pipe, Carbon Steel, Seamless, ASTM 0.5M
+A106 Gr.B, Sch 40
+5 1/2 Weldneck Flange, 300#. RF, Carbon 4
+Steel, ASTM A105 ASME B16.5
+6 1/2 Elbow 90 Deg, LR, Butt Weld, Carbon 3
+Steel, A234 WPB, Sch 40
+
+7 1 Pipe, Carbon Steel, Seamless, ASTM 3.0M
+A106 Gr.C, Sch 160
+8 1 Elbow 90 Deg, LR, Butt Weld, Carbon 2
+Steel, A234 WPC, Sch 160
+
+9 1.1/2 Grayloc Hub, 1.1/2 GR7, A350-LF2 c/w 3
+Clamp (AISI 4140), Seal Ring (AISI 630
+NACE, MOS2 Coated), Studs & Nuts
+10 1 Grayloc Hub, 1 GR7, A350-LF2 c/w 1
+Clamp (AISI 4140), Seal Ring (AISI 630
+NACE, MOS2 Coated), Studs & Nuts
